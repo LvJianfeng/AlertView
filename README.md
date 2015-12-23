@@ -1,5 +1,5 @@
 ## 自定义弹出view
-### view 中展示数组数据，使用简单，可扩展性强。
+### view 中展示数组数据，单击单选，使用简单，可扩展性强。
 
 ### git展示
 ![](https://github.com/LvJianfeng/AlertView/blob/master/AlertDemo/1.gif "") 
