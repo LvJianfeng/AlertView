@@ -16,6 +16,7 @@
 		3FF93A0F1C2A3615004B3F6B /* CustomAlertView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FF93A0E1C2A3615004B3F6B /* CustomAlertView.m */; };
 		3FF93A121C2A4A03004B3F6B /* icon_big_selected@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FF93A111C2A4A03004B3F6B /* icon_big_selected@2x.png */; };
 		3FF93A141C2A4C53004B3F6B /* icon_big_unselect@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FF93A131C2A4C53004B3F6B /* icon_big_unselect@2x.png */; };
+		3FF93A161C2A6919004B3F6B /* 1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 3FF93A151C2A6919004B3F6B /* 1.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		3FF93A0E1C2A3615004B3F6B /* CustomAlertView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomAlertView.m; sourceTree = "<group>"; };
 		3FF93A111C2A4A03004B3F6B /* icon_big_selected@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_big_selected@2x.png"; sourceTree = "<group>"; };
 		3FF93A131C2A4C53004B3F6B /* icon_big_unselect@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_big_unselect@2x.png"; sourceTree = "<group>"; };
+		3FF93A151C2A6919004B3F6B /* 1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 1.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -49,6 +51,7 @@
 		3FF939EA1C2A34DC004B3F6B = {
 			isa = PBXGroup;
 			children = (
+				3FF93A151C2A6919004B3F6B /* 1.gif */,
 				3FF939F51C2A34DC004B3F6B /* AlertDemo */,
 				3FF939F41C2A34DC004B3F6B /* Products */,
 			);
@@ -147,6 +150,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3FF93A161C2A6919004B3F6B /* 1.gif in Resources */,
 				3FF93A061C2A34DC004B3F6B /* LaunchScreen.storyboard in Resources */,
 				3FF93A141C2A4C53004B3F6B /* icon_big_unselect@2x.png in Resources */,
 				3FF93A031C2A34DC004B3F6B /* Assets.xcassets in Resources */,
@@ -312,6 +316,7 @@
 				3FF93A0C1C2A34DC004B3F6B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
