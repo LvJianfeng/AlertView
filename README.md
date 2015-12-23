@@ -7,6 +7,7 @@
 ## 使用
 将*CustomAlertView.h*跟*CustomAlertView.m*文件Add到你的工程中即可。
 Controller中调用
+
         CustomAlertView *alertView = [[CustomAlertView alloc] initWithListData:languages];
         alertView.tapDoneAction = ^(NSInteger tag){
             if (tag==999) {
